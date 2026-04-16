@@ -22,5 +22,11 @@
         "key": "123abc",
         "expirydate": "17-04-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "96a769c4fc37d7e0",
+        "key": "123456",
+        "expirydate": "17-04-2026",
+        "Allowoffline": false
     }
 ]
