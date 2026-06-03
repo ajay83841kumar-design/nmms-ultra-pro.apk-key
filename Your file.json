@@ -136,5 +136,11 @@
         "key": "RAH252G",
         "expirydate": "07-06-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "3e183e0d58a4cabe",
+        "key": "RAH252J",
+        "expirydate": "04-06-2026",
+        "Allowoffline": false
     }
 ]
