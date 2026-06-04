@@ -358,5 +358,11 @@
         "key": "RAH291",
         "expirydate": "04-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "4068d80904c8de61",
+        "key": "GSSS854",
+        "expirydate": "15-06-2026",
+        "Allowoffline": false
     }
 ]
