@@ -352,5 +352,11 @@
         "key": "RAH290",
         "expirydate": "04-06-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "def798a62e59b103",
+        "key": "RAH291",
+        "expirydate": "04-07-2026",
+        "Allowoffline": false
     }
 ]
